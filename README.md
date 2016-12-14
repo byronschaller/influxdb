@@ -1,4 +1,3 @@
 # influxdb
 
-TODO: Enter the cookbook description here.
-
+Chef cookbook to install and configure InfluxDB (https://www.influxdata.com/time-series-platform/influxdb/).
